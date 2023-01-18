@@ -100,6 +100,7 @@ export default function NftValidationHero() {
                             <div className="mt-8 sm:mx-auto sm:max-w-lg sm:text-center lg:mx-0 lg:text-left">
                                 <p className="text-base font-medium text-gray-900">
                                     Get some <a
+                                    rel="noreferrer"
                                     target="_blank"
                                     className="text-whal3s-700 hover:text-whal3s-800 underline"
                                     href="https://faucet.polygon.technology/">testnet tokens</a> first to
@@ -116,6 +117,7 @@ export default function NftValidationHero() {
                                     </div>
                                     <div className="ml-3 inline-flex">
                                         <a
+                                            rel="noreferrer"
                                             target="_blank"
                                             href="https://faucet.polygon.technology/"
                                             className="inline-flex items-center justify-center rounded-md border border-transparent bg-whal3s-400 px-5 py-3 text-base font-medium text-whal3s-700 hover:bg-whal3s-500"

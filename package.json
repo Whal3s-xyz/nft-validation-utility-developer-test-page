@@ -11,7 +11,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@thirdweb-dev/react": "^3.6.9",
     "@thirdweb-dev/sdk": "^3.6.9",
-    "@whal3s/whal3s.js": "file:custom_modules/whal3s-whal3s.js-0.0.8.tgz",
+    "@whal3s/whal3s.js": "^0.1.5",
     "classnames": "^2.3.2",
     "ethers": "^5.7.2",
     "react": "^18.2.0",
