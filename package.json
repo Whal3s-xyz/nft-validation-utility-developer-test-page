@@ -1,6 +1,7 @@
 {
   "name": "whal3s-demo-page",
-  "version": "0.1.0",
+  "license": "MIT",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.7",
