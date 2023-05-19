@@ -1,8 +1,8 @@
 import {FaDiscord} from 'react-icons/fa';
 const navigation = {
     main: [
-        { name: 'Privacy', href: 'https://www.whal3s.xyz/privacy.html' },
-        { name: 'Imprint', href: 'https://www.whal3s.xyz/imprint.html' },
+        { name: 'Privacy', href: 'https://www.whal3s.xyz/privacy' },
+        { name: 'Imprint', href: 'https://www.whal3s.xyz/imprint' },
         { name: 'Homepage', href: 'https://www.whal3s.xyz/' },
     ],
     social: [
